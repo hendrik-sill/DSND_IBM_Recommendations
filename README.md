@@ -29,7 +29,7 @@ On other Python distributions, you may also need to install Pandas, Numpy, Matpl
 
 In order to run the notebook, just follow the usual steps, i.e. start a Jupyter notebook server on your local machine.
 
-## Acknowledgements and Credits
+### Acknowledgements and Credits
 
 This project is primarily based on what I have learned in the Udacity Data Scientist Nanodegree. A template of the Jupyter notebook with gaps to be filled with code was supplied by Udacity. Furthermore, credit has to be given to IBM for providing the data used in this project.
 
